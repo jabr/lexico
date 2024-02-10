@@ -1,0 +1,11 @@
+[package]
+name = "lexico"
+edition = "2021"
+
+[lib]
+crate-type = ["rlib", "cdylib"]
+path = "lexico.rs"
+
+[[bin]]
+name = "lexico"
+path = "example.rs"
