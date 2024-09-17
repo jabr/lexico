@@ -1,6 +1,9 @@
 [package]
 name = "lexico"
+version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "Lexicographically orderable number encodings"
 
 [lib]
 crate-type = ["rlib", "cdylib"]
