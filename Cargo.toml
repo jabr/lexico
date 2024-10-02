@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Lexicographically orderable number encodings"
+repository = "https://github.com/jabr/lexico"
 
 [lib]
 crate-type = ["rlib", "cdylib"]
